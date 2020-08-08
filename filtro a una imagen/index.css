@@ -1,0 +1,13 @@
+.over{
+    width: 550px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-image: radial-gradient(ellipse,transparent 50%,black 70%),url(src/bobesponja.png);
+    
+    
+}  
+ 
+body{
+    margin: 10px;
+}
