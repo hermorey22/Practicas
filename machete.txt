@@ -1,0 +1,18 @@
+cd "arrastrar la pagina"
+
+git init
+
+git status
+
+git add .
+
+git commint -m"blablabla"
+
+git status
+
+git remote add origin https://aasdasdasda.git
+
+git remote -v
+
+git push origin master
+
